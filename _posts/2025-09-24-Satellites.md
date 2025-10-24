@@ -8,6 +8,8 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+<img  alt="image" src="https://github.com/user-attachments/assets/63b64e91-7a0e-4192-af0a-569f35b708c6" />
 
 [FireData](https://thakarashard.github.io/compiling/The-2025-Los-Angeles-Fires)
 [EarthDataSearch Los Angeles LandSisplacement search NETCDF](https://search.earthdata.nasa.gov/search/granules?p=C3294057315-ASF!C3294057315-ASF&pg[1][a]=3499177483!3499177482!3499177484!3499177485!ASF&pg[1][v]=t&pg[1][gsk]=-start_date&q=%22OPERA%22&circle[0]=-118.07521%2C33.98122%2C105802&tl=1613385994.317!4!!&lat=33.881460000000004&long=-117.73924548891786&zoom=8.486798121812377) [OPERA _ NETCDF] [.nc File : ARCHiVE - LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW @cityoflosangeles @stateofcalifornia @emit-sds 20250418T055222](https://archive.org/download/RashardNasaEarthDataRiverWatch/LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW_F18904_VV_20240701T135248Z_20241122T135247Z_v1.0_20250418T055222Z.nc)  [NETCDF4PYTHON on GiTHUB](https://github.com/rashardsdata/netcdf4-python/tree/master/examples) 
