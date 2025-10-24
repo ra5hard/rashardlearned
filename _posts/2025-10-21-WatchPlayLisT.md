@@ -6,6 +6,16 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+## Mobile Suit Gundam I (1981)
+ [🍅](https://www.rottentomatoes.com/m/mobile_suit_gundam_i) / [imdb](https://www.imdb.com/title/tt0159509/)
+<iframe src="https://archive.org/embed/mobile.-suit.-gundam.-i.-1981.1080p.-blu-ray.x-264-px-hd" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Super Dimension Fortress: Macross (1982) 
+[1080p] [Dual Audio] [AC-3+AAC] [English Signs & Subtitles] [SSA] [TV+Movie+OVA+Extras] [Fatcatofalltime]
+[files](https://archive.org/download/Macross-1080p)
+<iframe src="https://archive.org/embed/Macross-1080p" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Project A-ko 2 1987 [1993 VHS DUB]
 [Saturday Anime - Project A-ko Gray Side/Blue Side 02/01/1997](https://youtu.be/TJFCb5m7dQw?si=NlLsvH98DEu_R5N5)
 [SciFi Channel - Saturday Anime-Broadcast Editions: Roujin Z 09/14/1996](https://youtu.be/2vf5XCVG4qo?t=13)
