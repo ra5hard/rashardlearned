@@ -25,7 +25,30 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
+@nasa-jpl @blackgirlscode 
+Changes to my stylesheet [Commit 683b424](https://github.com/ThakaRashard/rashardmro/commit/683b424e173da575fa9652e45137cb7d878794ba)
+#3df28b ~> [dodgerblue](https://en.wikipedia.org/wiki/Dodger_blue)
 
+```
+/*  #3df28b */
+.box {
+  width: 100vw;
+  border: 1px solid dodgerblue;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0.1rem;
+  background-attachment: fixed;
+  justify-content: space-evenly;
+  background-size: 100% auto;
+  font-kerning: normal;
+  letter-spacing: 0.2rem;
+  font: bold 10px/18px verdana, lucida, sans-serif;
+  background: url(https://mars.nasa.gov/msl-raw-images/msss/04571/mhli/4571MH0002270001604098R00_DXXX.jpg);
+  background-size: 20% auto;
+  background-attachment: fixed;
+}
+
+```
 
 @LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) are  in my work blog cluster @usgs /@nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeagal or inappropriate caused you to add me to your block list on **`_METRO-PUBLIC_`** wifi ... [holetoanotheruniverse](holetoanotheruniverse40.github.io/) is just a computer cluster named after a tag I made up in Atlanta.. less social media please @LACMTA 🥺 
 
@@ -1087,6 +1110,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
