@@ -13,7 +13,9 @@ author: "RashardKelly @nasa-jpl"
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
 @WUSTL-CSPL @wustl 
-Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around ![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
