@@ -7,7 +7,25 @@ image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.pn
 author: "RashardKelly @nasa-jpl"
 ---
 
+![PDS Geosciences Node Mars Orbital Data Explorer](https://ode.rsl.wustl.edu/mars/images/geo.png)
+
+
+[Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
+
+@WUSTL-CSPL @wustl 
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
+
+@nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
+[Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
+`https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
+
+`[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
+
 [SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+
 <img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
 
 ![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
