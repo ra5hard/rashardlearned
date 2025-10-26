@@ -13,11 +13,15 @@ author: "RashardKelly @nasa-jpl"
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
 @WUSTL-CSPL @wustl 
-
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
 
+
+# Photojournal's URL Mishap
+-_its effect on my life_
+-Rashard , iman [thaka] kelly @blackgirlscode
 @nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
 [Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
 `https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
