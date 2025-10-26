@@ -13,13 +13,25 @@ author: "RashardKelly @nasa-jpl"
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
 @WUSTL-CSPL @wustl 
-Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around ![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around 
+
+I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
+
+About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol
+
+[.fits]()
+![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+
+
+Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+
 
 <iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
 
+![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
 
 # Photojournal's URL Mishap
 -_its effect on my life_
