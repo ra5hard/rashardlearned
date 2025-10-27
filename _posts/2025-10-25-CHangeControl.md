@@ -27,6 +27,26 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 [comment]: <> (Emergency Files )
 
 
+[nowcoast.noaa.gov/](https://nowcoast.noaa.gov/)
+- _Imagine navigating a vessel along the coast and planning the approach to your destination What factors affecting the movement of the vessel?_ [ReadmrE](https://nauticalcharts.noaa.gov/updates/data-dissemination-web-interface-supports-navigation/#more-184565)
+- 
+<img alt="image" src="https://github.com/user-attachments/assets/a1891924-1573-4928-8192-f941291f396f" />
+
+![PuertoRico](https://nauticalcharts.noaa.gov/updates/wp-content/uploads/2025/03/cropped-EX2203_EM304_PuertoRico-2-scaled-1-1536x336.jpg)
+
+The U.S. government is closed. This site will not be updated; however, NOAA websites and social media channels necessary to protect lives and property will be maintained. To learn more, [visit visi](https://youtu.be/V2aj0zhXlLA?t=117)t [@commercegov](https://www.commerce.gov/news/blog). 
+For the latest forecasts and critical weather information, visit [@weather-gov](https://www.weather.gov/).
+
+
+
+
+
+*Please note: Some Funding Opportunities offered under the Bipartisan Infrastructure Law are open and can be applied for during the partial government shutdown.
+
+![@noaa @weather-gov](https://nowcoast.noaa.gov/static/media/noaa_logo_small_alpha_cropped.0603f9dbcb7b3768c968.png) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ffdc2dea-ad9f-4730-98f5-0ba1078e88a1" />
+
  
 
 ![@NOAA-OWP](https://www.pmel.noaa.gov/sites/all/themes/pacific_marine/images/pmel_logo_full.png)
@@ -875,7 +895,7 @@ Coordinates: 33.8313°, -118.1745°
 # California 
 Resivoirs, Dams, Settlements [Interactive Modifyable - @nasa MAP](https://worldview.earthdata.nasa.gov/?v=-126.37290600480512,30.84803013201238,-109.49553324480513,39.22518442382487&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRanD_Dams,GRanD_Reservoirs,GRUMP_Settlements,VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-118.3414,33.3718&t=2025-08-20-T20%3A00%3A00Z)
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa70fa26-bf1a-48ca-afe1-7413383024d2" />
 
 ![Uploading image.png…]()
 
@@ -1160,6 +1180,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
