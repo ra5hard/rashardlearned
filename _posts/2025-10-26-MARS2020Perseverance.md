@@ -38,6 +38,7 @@ About the Notebooks. I am so geatful for the info, however im concerned that the
 _add filter_ : Filtering:Sol: 1499 to 1499 
 [ATLAs pds-imaging.jpl. @nasa.gov ](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
 
 ### mastcamz [Link @nasa-pds](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/)
 
@@ -58,7 +59,7 @@ _add filter_ : Filtering:Sol: 1499 to 1499
 </div>
 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
+
 
 
 ![Mailin Space Science Systems](msss.com/images/msss_logo.gif)
