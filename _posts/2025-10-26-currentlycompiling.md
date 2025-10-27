@@ -9,9 +9,13 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 
 
 
-[DuckStation] - [Demo]()
+[DuckStation](https://duckstation.org/) - [Demo](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000007Duckstation-demo-cloudmobile-c8-az_recorder_20251026_055915.mp4)
+[@stenzek](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000007Duckstation-demo-cloudmobile-c8-az_recorder_20251026_055915.mp4) [git](https://github.com/stenzek/duckstation)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid03xgJUwU4joJgkUwiz1w3rNYKTFVY1mu2sV99Xg1agFJyhinAjmcrhdYJnTzia3Csl%26id%3D100084464911565&show_text=true&width=500" width="500" height="374" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+# # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
+<iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![DUCKSTATiON](https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4V90nYGMzgeJNwjdlkdQsD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
