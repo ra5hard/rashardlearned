@@ -5,6 +5,22 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+[DSCOVR: EPIC](https://epic.gsfc.nasa.gov/)
+LAst Update 7/15
+@nasa-jpl @nasa-pds @podaac i went into detail on facebook. @nasa-pds and included @Harvard and Noaa @avanderburg @fbecerra
+There are files after #JULY15 but i did not see anything obviouse about #ImagingData this #gzip is from #July25th  many of the datasources are blank, Since the thing is broaDCASTING Chief Master Sergeant of the Space Force Bill Nelson Congressmember Karen Bass im just trying to get eyes on the issue 
+ ### Start Date End Date Data Type Processing
+Environment  Processing Date Filesize
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Faraday Cup L1 data OE 2025-07-13T02:20:03Z 0.33 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Stored Observatory Telemetry OE 2025-07-13T00:00:11Z 34.85 MB
+ 2025-07-12T00:00:00Z 2025-07-12T23:59:59Z Magnetometer L0 data OE 2025-07-13T01:01:00Z 34.50 MB
+ 2025-07-27T00:00:00Z 2025-07-27T23:59:59Z Faraday Cup L1 data OE `2025-07-28T01:02:33Z` 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L1 data OE 2025-07-29T01:02:34Z `0.00` MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Faraday Cup L0 data OE 2025-07-29T01:02:18Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Magnetometer L0 data OE 2025-07-29T01:01:00Z 0.00 MB
+ 2025-07-28T00:00:00Z 2025-07-28T23:59:59Z Stored Observatory Telemetry OE 2025-07-29T00:00:10Z 0.00 
+ 
 @nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
 [Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
 `https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
