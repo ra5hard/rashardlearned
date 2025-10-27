@@ -29,6 +29,7 @@ Image Credit: NASA/JPL-Caltech [READ](https://mars.nasa.gov/mars2020/multimedia/
 ![Mars Perseverance Sol 1499](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01499/ids/edr/browse/ncam/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J01_1200.jpg)
 
 @WUSTL-CSPL @wustl 
+re:  [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx)
 Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around 
 
 I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
@@ -42,11 +43,25 @@ _add filter_ : Filtering:Sol: 1499 to 1499
 
 <img alt="image" src="https://github.com/user-attachments/assets/7d33d9fc-e7c9-4953-ac36-5117a252c10b" />
 
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-mars' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 ![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
 
 
-Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2725c46d-116f-4d18-9154-4dec16c8b895" />
 
 
 <iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -75,6 +90,28 @@ Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar la
 
 `[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
 
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Opportunity        |   [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/)  | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+# RoverInventory
+| Year | Rover| HomePAge |
+| ---- | ------------- | ---- |
+| xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
+| xxxx | Curiosity | [Info](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) |
+| xxxx | Sojourner | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Perseverance | [Info](https://science.nasa.gov/mission/mars-2020-perseverance/) |
+| xxxx | PathFinDer| [Info](https://photojournal.jpl.nasa.gov/spacecraft/Mars+Pathfinder+Rover) |
+    
+
+![ROVERWHEELS](https://upload.wikimedia.org/wikipedia/commons/1/10/H_rover-comp_wheels_02.jpg)
+![Sorjourner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PIA01551.jpg/1024px-PIA01551.jpg)  
 
 # Mars Reconnaissance Orbiter 
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
@@ -114,6 +151,11 @@ CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
 2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
 [DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
 <img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="80%" height=400px ></object>
 
 <style>
 .whitebg {background-color:white;}
@@ -329,7 +371,12 @@ For more information about Perseverance, visit https://mars.nasa.gov/perseveranc
 # Data
 [MArs Moons](https://science.nasa.gov/mars/moons/)
 
+# Spirit
+Mars Inventory
+[LAnding to LAtest @nasa @nasa-jpl @nasa-pds @whitehouse @USnavy - MAY 25 2025](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/navcam/site0138/)
 
+# Spirit Rover [HAZCAM](https://pdsimage2.wr.usgs.gov/Mars_Exploration_Rover/Spirit/mer2om_0xxx/browse/hazcam/)
+[@nasa-jpl](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
 
 # Viking Project
 ![NASAJPL LANDER](https://planetarydata.jpl.nasa.gov/img/data/vl1_vl2-m-lcs-5-midr-pv0.x/vl_2011/hires/l2c1pm.jpg)
