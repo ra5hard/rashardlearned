@@ -12,8 +12,94 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 [DuckStation](https://duckstation.org/) - [Demo](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000007Duckstation-demo-cloudmobile-c8-az_recorder_20251026_055915.mp4)
 [@stenzek](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000007Duckstation-demo-cloudmobile-c8-az_recorder_20251026_055915.mp4) [git](https://github.com/stenzek/duckstation)
 
-# # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
+
+# Currently Compiling 
+`jekyll.version`  {{ jekyll.version }}
+
+
+
+[Current `MagMoB`](https://x.com/i/broadcasts/1djGXWXYBdeKZ)
+The Chemical Brothers -
+Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450)) 
+@BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
+
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding.
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+
+Maintaining Commitment @Nasa-Jpl _3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+@SPlunk @nasa-jpl @blackgirlscode [Linux_ing_update](https://rashardiman.github.io/linux/) 
+
+
+
+# Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
+
+The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
+faraway galaxies, satellite navigation, and even the health and safety
+of our astronauts rely on communications systems that move data to
+and from space. That’s where the Tracking and Data Relay Satellite
+(TDRS) constellation comes in. + [@nasa GeneralDynamics](https://gdmissionsystems.com/satellite-ground-systems/tracking-and-data-relay-satellite-system)
+[DOWNLOAD-PDF @TheSpaceDevs](https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/31e784ea-0455-48b9-9961-cacea495a0af" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+# California_Linux: 
+
+@cityoflosangeles [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov [Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+
+
+[@nasa iSS current position](https://eyes.nasa.gov/apps/earth/#/)
+[SpotTheStaTioN](https://www.loc.gov/programs/john-w-kluge-center/chairs-fellowships/chairs/blumberg-nasa-chair-in-astrobiology/) : [@apple iOS](https://apps.apple.com/us/app/spot-the-station/id6449235044) : [@android](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US)
+
+Roscosmos Spacewalk 65
+
+[WikiTalk @TheSpaceDevs](https://en.wikipedia.org/wiki/Talk:Expedition_65) :: [@nasa-develop @nasa @usgs @weather-gov @newshour @blackgirlscode](https://www.nasa.gov/mission/expedition-65/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1AHUqn0X4Hs?si=czaTW_Bot4NPCcOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image @blackgirlscode 1050am SPACEwalk65 from @stateofcalifornia" src="https://github.com/user-attachments/assets/ae33bf9c-2c78-47c8-952d-7e655aaa457f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4c66b17c-9ad1-408b-b80e-d20a3895e75f" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/faef7897-9946-42eb-abe3-ee08e4307501" />
+
+![@nasa-jpl @emit-sds @blackgirlscode check your @nasa repos for updates to your JJupyterNotebooks @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/c/c0/Expedition_65_crew_poster.png)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0KQCgMcRyFUrNaqbRmW4H7wmrsjFDPDn1ig5Jh7r84PWGa93fCUeBGRwarQRawzZUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+[Android OS Documentation](https://source.android.com/docs)
+# About the International Space Station
+The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/) [MRO_TWEET](https://x.com/RicoThaka/status/1760472287265038367)
+
+
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
+          
+
+
+<img src="https://raw.githubusercontent.com/rashardci/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+
+
+
+<img src="https://raw.githubusercontent.com/rashard-ecostress-jpl-iss/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+
+
+
+<img src="https://raw.githubusercontent.com/krashardiman-ctrl/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+
+<img src="https://raw.githubusercontent.com/rashardgds/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+
+![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+![duckStation](https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg)
 
 ![DUCKSTATiON](https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg)
 
