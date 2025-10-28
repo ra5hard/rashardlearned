@@ -4,7 +4,11 @@ mermaid: true
 ---
 
 
+
 [Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
+{% include nav.html %}
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
   {% for post in site.posts %}
     
