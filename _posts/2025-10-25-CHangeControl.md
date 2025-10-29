@@ -31,11 +31,16 @@ AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED 
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
 [@whitehouse - office-of-management-and-budget](https://www.whitehouse.gov/omb/), [@usagov - office-of-management-and-budget](https://www.usa.gov/agencies/office-of-management-and-budget) et 
 
+<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+<img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
 # @blackgirlscode 
 `blackgirlscode.com` was throwing certificate errors from Long Beach Public Library  someone enacted #DNS forwarding Kimberly Bryant, Founder Black Girls CODE Defense Information Systems Agency and it is forwarding to https://www.`wearebgc.org`/ with no errors from the same library [seeFB](https://www.facebook.com/100084464911565/videos/867965245889004/) [Archive](https://archive.org/details/commitmentmaintenance) : [@blackgirlscode](https://archive.org/download/commitmentmaintenance/000004_helpdesktools_loging_procedures_normani_blackgirlscodewebsitecertcheckplease_ssl_https_VID_20251029_130640_818.mp4)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F867965245889004%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/35a57fdb-e620-48e9-8ecd-65adc5e6137d" />
 
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
@@ -1237,6 +1242,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
