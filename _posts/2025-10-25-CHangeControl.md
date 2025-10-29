@@ -27,18 +27,22 @@ At Glance
 
 :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
-AMERICAN FEDERATION OF
-GOVERNMENT EMPLOYEES, AFL-CIO et
-al.,
-Plaintiffs,
- v.
-UNITED STATES OFFICE OF
-MANAGEMENT AND BUDGET
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED STATES OFFICE OF MANAGEMENT AND BUDGET
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
-[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+[@whitehouse - office-of-management-and-budget](https://www.whitehouse.gov/omb/), [@usagov - office-of-management-and-budget](https://www.usa.gov/agencies/office-of-management-and-budget) et 
+
+
+# @blackgirlscode 
+`blackgirlscode.com` was throwing certificate errors from Long Beach Public Library  someone enacted #DNS forwarding Kimberly Bryant, Founder Black Girls CODE Defense Information Systems Agency and it is forwarding to https://www.`wearebgc.org`/ with no errors from the same library [seeFB](https://www.facebook.com/100084464911565/videos/867965245889004/) [Archive](https://archive.org/details/commitmentmaintenance) : [@blackgirlscode](https://archive.org/download/commitmentmaintenance/000004_helpdesktools_loging_procedures_normani_blackgirlscodewebsitecertcheckplease_ssl_https_VID_20251029_130640_818.mp4)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F867965245889004%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F867965245889004%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 [ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
 
 [Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
@@ -1233,6 +1237,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
