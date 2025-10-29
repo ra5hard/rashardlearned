@@ -36,7 +36,7 @@ AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED 
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
 [@whitehouse - office-of-management-and-budget](https://www.whitehouse.gov/omb/), [@usagov - office-of-management-and-budget](https://www.usa.gov/agencies/office-of-management-and-budget) et 
 
-<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+<!-- <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" /> -->
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
 # @blackgirlscode 
@@ -1245,6 +1245,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
