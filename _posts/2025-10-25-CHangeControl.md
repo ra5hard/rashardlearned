@@ -275,6 +275,36 @@ ERR_CONNECTION_RESET
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1078e4d5-5615-4373-9e32-0f91626368ef" />
 
+# @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
+I had some links i put in my [MarsBlog](https://rashardgds.github.io/2025/04/22/Marsblogv2.html) long ago when i was doing as [Robin Obrien](https://www.msss.com/) asked that would identify me and make my reasearch palusable. I did not know about exoplanets at that point... however with all the [confusion](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack), I was assigned ActiveMission for [MRO](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/), [JUNO](https://www.missionjuno.swri.edu/), and [Cassini](https://www.planetary.org/space-missions/cassini) . . . Jamie told me i would have to work for money. That ment communicating with [HR](https://www.jpl.jobs/accessibility), then he bounced... and Im on my own.. While everything with Erika falls apart. I was reading backlog and saw that [President Trump]() 
+[AWS outage disrupts major websites overnight, Amazon says most are coming back online - @kare11 ](https://www.youtube.com/watch?v=JZWI8sqW2Y0)
+[Amazon internet outage: What has happened and who is affected? -  Jennifer O'Keeffe](https://www.insidermedia.com/news/national/amazon-internet-outage-what-has-happened-and-who-is-affected)
+
+CloudFront is Amazon's Content Delivery Network (CDN) that caches and delivers data like static web content, videos, and APIs to end-users from edge locations closer to them, reducing latency and improving performance.
+[StatusGator](https://statusgator.com/services/amazon-web-services/amazon-cloudfront) 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid037RWaUZ9aGidDPHgXSrTGcKoi5PWk1Hnn6a7FxMPsxXLqWRmhvEYaqM6Cygwe7UKkl%26id%3D100084464911565&show_text=false&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+https://health.aws.amazon.com/health/status President Donald J. Trump Office of the Governor of Pennsylvania Governor Newsom https://d34w7g4gy10iej.cloudfront.net/.../DOD_110409447... Los Angeles Press Club Los Angeles Times alot of vids are hosted with Amazon Web Services Immigration And Customs Enforcement (ICE) i dont know what you guys are doing however NASA/JPL Physical Oceanography Data Center is in County of Los Angeles Congressmember Karen Bass and we may be able to contribute to businesses and organizations in need... Karen Bass do you want #NAsA or #Spectrum for #DTLAWiFi ? NASA Technology -#rashard NASA Mars https://d34w7g4gy10iej.cloudfront.net/.../DOD_107547647... <~ Vandenberg Space Force Base
+
+[https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/ @nasa-jpl @cityofloangeles](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a76add7-6622-418e-b49b-8e82687c04c8" />
+
+historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
+
+### La fire screen-20250110-192022
+[BlogEntry](https://archive.org/details/screen-20250110-192022/VID_20250111_015250+(1).mp4) 
+```
+Fire
+I'm sick; some sort of magnet
+-rashard
+```
+I also mention interruptions at [SDOLAB](https://sdo.gsfc.nasa.gov/) as documented below & reply facebook/twitter campains featuring the sun , like someone else controls the data now. and Now I have no access @nasa-jpl @noaagov @weather-gov @stateofcalifornia @iceGov @dhs-gov @atfweb 
+<iframe src="https://archive.org/embed/screen-20250110-192022/VID_20250111_015250+(1).mp4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/0c0a15fc-ba17-47ef-a4c0-d2627eb16df2" />
+
+
 
 Due to the lapse in federal government funding, [@NASA-JPL](https://www.jpl.nasa.gov/missions/dsn/) is not updating this website.
 @STATEOF[CALiFORNiA]() [Goldstone](https://www.gdscc.nasa.gov/index.php/tours/) seemed unstable but and that makes the site look current... [Firms](https://firms.modaps.eosdis.nasa.gov/map/#t:tsd;d:2025-10-16..2025-10-22,2025-10-21;l:fires_all,countries,landsat_human,earth;@-118.21,33.86,9.08z) is current as well
@@ -331,35 +361,6 @@ C:\Users\Volunteer>
 
 
 
-
-# @NASA-JPL @UCLA @NASA_PDS @NASA-DEVELOP
-I had some links i put in my [MarsBlog](https://rashardgds.github.io/2025/04/22/Marsblogv2.html) long ago when i was doing as [Robin Obrien](https://www.msss.com/) asked that would identify me and make my reasearch palusable. I did not know about exoplanets at that point... however with all the [confusion](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack), I was assigned ActiveMission for [MRO](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/), [JUNO](https://www.missionjuno.swri.edu/), and [Cassini](https://www.planetary.org/space-missions/cassini) . . . Jamie told me i would have to work for money. That ment communicating with [HR](https://www.jpl.jobs/accessibility), then he bounced... and Im on my own.. While everything with Erika falls apart. I was reading backlog and saw that [President Trump]() 
-[AWS outage disrupts major websites overnight, Amazon says most are coming back online - @kare11 ](https://www.youtube.com/watch?v=JZWI8sqW2Y0)
-[Amazon internet outage: What has happened and who is affected? -  Jennifer O'Keeffe](https://www.insidermedia.com/news/national/amazon-internet-outage-what-has-happened-and-who-is-affected)
-
-CloudFront is Amazon's Content Delivery Network (CDN) that caches and delivers data like static web content, videos, and APIs to end-users from edge locations closer to them, reducing latency and improving performance.
-[StatusGator](https://statusgator.com/services/amazon-web-services/amazon-cloudfront) 
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid037RWaUZ9aGidDPHgXSrTGcKoi5PWk1Hnn6a7FxMPsxXLqWRmhvEYaqM6Cygwe7UKkl%26id%3D100084464911565&show_text=false&width=500" width="500" height="578" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-https://health.aws.amazon.com/health/status President Donald J. Trump Office of the Governor of Pennsylvania Governor Newsom https://d34w7g4gy10iej.cloudfront.net/.../DOD_110409447... Los Angeles Press Club Los Angeles Times alot of vids are hosted with Amazon Web Services Immigration And Customs Enforcement (ICE) i dont know what you guys are doing however NASA/JPL Physical Oceanography Data Center is in County of Los Angeles Congressmember Karen Bass and we may be able to contribute to businesses and organizations in need... Karen Bass do you want #NAsA or #Spectrum for #DTLAWiFi ? NASA Technology -#rashard NASA Mars https://d34w7g4gy10iej.cloudfront.net/.../DOD_107547647... <~ Vandenberg Space Force Base
-
-[https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/ @nasa-jpl @cityofloangeles](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
-<img  alt="image" src="https://github.com/user-attachments/assets/0a76add7-6622-418e-b49b-8e82687c04c8" />
-
-historic @cityoflosangeles for [KarenBass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/xlarge_hero_image_992x665_/public/2025-07/137A3381ACROP%20%282%29-01.png.webp?itok=li4gImTm) @whitehouse 
-
-### La fire screen-20250110-192022
-[BlogEntry](https://archive.org/details/screen-20250110-192022/VID_20250111_015250+(1).mp4) 
-```
-Fire
-I'm sick; some sort of magnet
--rashard
-```
-I also mention interruptions at [SDOLAB](https://sdo.gsfc.nasa.gov/) as documented below & reply facebook/twitter campains featuring the sun , like someone else controls the data now. and Now I have no access @nasa-jpl @noaagov @weather-gov @stateofcalifornia @iceGov @dhs-gov @atfweb 
-<iframe src="https://archive.org/embed/screen-20250110-192022/VID_20250111_015250+(1).mp4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
-
-<img alt="image" src="https://github.com/user-attachments/assets/0c0a15fc-ba17-47ef-a4c0-d2627eb16df2" />
 
 
 
@@ -1238,6 +1239,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
