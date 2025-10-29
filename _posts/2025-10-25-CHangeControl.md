@@ -16,29 +16,34 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 @BLACKGiRLSCODE its :: [Double Trouble · The Roots · Mos Def](https://youtu.be/AmSUb5H5G0s?t=56) re:[presentation](https://en.wikipedia.org/wiki/Presentation) bc its [Man's World](https://youtu.be/VEDBFzDnIRM?t=88)! iThinkiNeed [@BlackGirlsCode 's Wisdom](https://youtu.be/btYlWphnfbE?si=4wSnR6QTZoRFDP02) on a [MundAy](https://youtu.be/w3hpOokLXPw?si=oQU6WNHBtlIMFuZZ) [Messij](https://www.youtube.com/watch?v=4uQnXvRndcE)
 
 ## NASA Appropriations and Authorizations: At a Glance
+[ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) 
+@nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov 
+@Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
+@TheSpaceDevs
+
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
 Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
-[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
-
-
-At Glance
-
-[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
-
-:: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
-
-AMERICAN FEDERATION OF
-GOVERNMENT EMPLOYEES, AFL-CIO et
-al.,
-Plaintiffs,
- v.
-UNITED STATES OFFICE OF
-MANAGEMENT AND BUDGET
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)  [@NASA :pdf:R43419.121.pdf @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+:: @whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+### AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED STATES OFFICE OF MANAGEMENT AND BUDGET
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
-[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+[@whitehouse - office-of-management-and-budget](https://www.whitehouse.gov/omb/), [@usagov - office-of-management-and-budget](https://www.usa.gov/agencies/office-of-management-and-budget) et 
 
-<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+<!-- <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" /> -->
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
+# @blackgirlscode 
+`blackgirlscode.com` was throwing certificate errors from Long Beach Public Library  someone enacted #DNS forwarding Kimberly Bryant, Founder Black Girls CODE Defense Information Systems Agency and it is forwarding to https://www.`wearebgc.org`/ with no errors from the same library [seeFB](https://www.facebook.com/100084464911565/videos/867965245889004/) [Archive](https://archive.org/details/commitmentmaintenance) : [@blackgirlscode](https://archive.org/download/commitmentmaintenance/000004_helpdesktools_loging_procedures_normani_blackgirlscodewebsitecertcheckplease_ssl_https_VID_20251029_130640_818.mp4)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F867965245889004%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/35a57fdb-e620-48e9-8ecd-65adc5e6137d" />
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F867965245889004%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 [ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
 
 [Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
@@ -1233,6 +1238,11 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
+
+
+
+
 
 
 
