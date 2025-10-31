@@ -37,6 +37,14 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 <!-- <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" /> -->
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
+
+![https://www.congress.gov/member/sydney-kamlager-dove/K000400](https://kamlager-dove.house.gov/sites/evo-subsites/kamlager-dove.house.gov/files/light-logo-1.png)
+[Sydney Kamlager-Dove](https://www.congress.gov/member/sydney-kamlager-dove/K000400) : at [@fecgov crenshawchamber.com/newpagea9ed47ce](https://www.crenshawchamber.com/newpagea9ed47ce) [fec.gov/data/committee/C00795823/](https://www.fec.gov/data/committee/C00795823/)
+[sd30.senate.ca.gov/contact](https://sd30.senate.ca.gov/contact)
+[kamlager-dove.house.gov/address_authentication?form=/contact](https://kamlager-dove.house.gov/address_authentication?form=/contact)
+Explore current and historic federal campaign finance data on the new [fec.gov](https://www.fec.gov/data/browse-data/)
+<img  alt="@cityoflosangeles @blacgirlscode @stateofcalifornia" src="https://github.com/user-attachments/assets/60aea45d-4b98-424d-ae8f-5de2e3dbd55f" />
+
 # @blackgirlscode 
 `blackgirlscode.com` was throwing certificate errors from Long Beach Public Library  someone enacted #DNS forwarding Kimberly Bryant, Founder Black Girls CODE Defense Information Systems Agency and it is forwarding to https://www.`wearebgc.org`/ with no errors from the same library [seeFB](https://www.facebook.com/100084464911565/videos/867965245889004/) [Archive](https://archive.org/details/commitmentmaintenance) : [@blackgirlscode](https://archive.org/download/commitmentmaintenance/000004_helpdesktools_loging_procedures_normani_blackgirlscodewebsitecertcheckplease_ssl_https_VID_20251029_130640_818.mp4)
 
@@ -1265,6 +1273,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
