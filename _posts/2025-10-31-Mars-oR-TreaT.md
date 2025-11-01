@@ -27,7 +27,8 @@ author: "RashardKelly @nasa-jpl"
 
 
 <a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a>
-<object type="application/pdf" data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf"  height="400"></object> 
+
+<object  data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" type="application/pdf"></object> 
 
 <object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
 </object>
