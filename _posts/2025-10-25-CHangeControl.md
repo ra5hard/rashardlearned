@@ -14,6 +14,10 @@ permalink: /changelog
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
 
+
+Welcome to the Beginner's Guide to Rockets
+![i](https://www.grc.nasa.gov/www/k-12/rocket/Animation/rocket/rocket.gif)
+[https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html](https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html)
 # Lapse in Appropriations Contingency Plan
 [link](https://home.treasury.gov/lapse-in-appropriations-contingency-plans)
 The radical left has chosen to shut down the United States government in the name of reckless spending and obstructionism. As a result, the U.S. Department of the Treasury’s websites will only be sporadically updated until this shutdown concludes. Please refer to [Treasury’s contingency plans](https://home.treasury.gov/lapse-in-appropriations-contingency-plans) for more information / / / [@defcon MEDiA SERVER @blackgirlscode](https://media.defcon.org/)
@@ -1446,6 +1450,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
