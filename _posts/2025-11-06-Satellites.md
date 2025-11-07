@@ -15,15 +15,21 @@ author: "RashardKelly @nasa-jpl"
 @TheSpaceDevs @BlackGirlsCode @emit-sds @stateofcalifornia @cityoflosangeles
 Library of Congress Control Number: [2019642104](https://www.loc.gov/item/2019642104/)
 Caption for frame no. 25: Chairman F. James Sensenbrenner Jr., R-Wis., makes his opening statement before the start of the House Science Committee hearing on the space station.
+
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62765v.jpg)
+
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62763v.jpg)
-[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg">]( https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg)
-[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">]( https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62762v.jpg)
+
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
 
 <div class="box">
+	
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg)
-[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">]( https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
+[<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62600/62669v.jpg)	
+
 </div>
 
 
