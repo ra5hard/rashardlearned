@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mars OR TreaT?
+title:  MarsLog11122025
 published: true
 tags: mars dsn "Deep Space Network" robotics marsblog
 image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.png
@@ -24,6 +24,14 @@ author: "RashardKelly @nasa-jpl"
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
 
+# @NASA iNSight LAnding
+@nasa-jpl @blackgirlscode @StateOfCalifornia @CityOfLosAngeles 
+[Link @blueorigin @TheSpaceDevs @nasa-pds](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing/start/60/end/182.7) 
+[1944](https://archive.org/details/CaptainAmerica1944Serial1/Captain+America_+1944+Serial+-+%231.mp4)
+
+<img  alt="image @blueorigin" src="https://github.com/user-attachments/assets/34f61e5b-3abd-455b-ae8c-95a2a7942b8e" /> 
+<iframe width="640" height="480" frameborder="0" allowfullscreen src="https://archive.org/embed/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing?start=60&end=120" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<img   alt="image" src="https://github.com/user-attachments/assets/d06e9eb7-3346-4952-8b18-5f4460a7233a" />
 
 
 <a href="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf">download the PDF file.</a>
