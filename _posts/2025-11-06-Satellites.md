@@ -11,6 +11,36 @@ author: "RashardKelly @nasa-jpl"
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+<img alt="image" src="https://github.com/user-attachments/assets/bcc4dd7b-4e9b-4a8a-b930-6d8c8e7df4f0" />
+
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/solar-system/#/sc_mars_reconnaissance_orbiter" type="text/html"></object>
+
+
+
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+downlinked. Additional data may be transmitted using X Band 70 m DSN coverage, particularly
+early in the mission when data rates are otherwise low. MRO also carries a Ka Band
+demonstration package, which can be used on additional DSN passes to augment the nominal
+science data return. Additional data would also be acquired during any extended missions. Table
+3 shows estimated science product volumes for several data return cases.
+The generation of EDRs and RDRs from telemetry data typically results in a data volume
+expansion of at least an order of magnitude. Thus, archiving MRO data will be challenging
+indeed since at least several hundred terabits of data will be produ
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
 ### Books
 
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
@@ -46,6 +76,11 @@ Caption for frame no. 25: Chairman F. [James Sensenbrenner Jr](https://www.congr
 </div>
 
 [<img alt="@blackgirlscode https://www.nasa.gov/gallery/expedition-70-image-gallery/page/2/" src="https://www.nasa.gov/wp-content/uploads/2023/10/53282836150-921f920bd7-o.jpg">](https://www.nasa.gov/wp-content/uploads/2023/10/53282836150-921f920bd7-o.jpg)
+
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+
 
 [<img src="https://www.nasa.gov/wp-content/uploads/2023/11/iss070e024002.jpg">](https://www.nasa.gov/wp-content/uploads/2023/11/iss070e024002.jpg)
 
@@ -1123,3 +1158,10 @@ did i attack him St. Francis Center earlier ? #Undercover ? [https://ia601401.us
 -[KidnappingLaw @StateOfCalifornia](https://www.kannlawoffice.com/kidnapping.html) :: @blackgirlscode, goodluck with [The Splashdown](https://www.floridatoday.com/story/tech/science/space/2025/07/14/axiom-spacex-splashdown-california-how-watch-nasa/85189399007/) i dont know how ot track the object! :( 
 
 <iframe src="https://archive.org/embed/vid-20250714-084801" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Thaka Sartu
+[#HOWDY](https://www.facebook.com/usagsill/posts/pfbid02R8Rkx5WSPc118K8ALiWgmfaumdQo2zUdsjMSGi3VCzRvjYu6cwEbe1J7z7eDP5cLl)! Mars Reconnaissance Orbiter (MRO)
+Project [https://www.facebook.com/usagsill](https://www.facebook.com/usagsill) https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf?fbclid=IwY2xjawOEesZleHRuA2FlbQIxMABicmlkETBGS215bEdpRUdVVlpsRG1Uc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHgRBZrVfdRrWWVSmdribYRFMg9s4d7JExKUkNRu4DKLvkpCFmPk4GVnvEJ72_aem_RMmZNpd5dlPYz0O71Ex9UA #GovernmentShutDown im finding some useful docs that will help organize #CyberWorkforceFieldReps International Space Station Defense Information Systems Agency Karen Bass Supervisor Holly J. Mitchell Hollywood Farmers' Market https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf Normani Brandy
+17m
+Reply
+Edited
