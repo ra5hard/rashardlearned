@@ -7,6 +7,34 @@ permalink: /watchlist
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+
+
+## Dragon Ball Z Episode 75 - Bold and Fearless (Original Toonami Broadcast)
+<iframe src="https://archive.org/embed/dragon-ball-z-075-090-toonami-c-retro-ccn" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+Private Snafu [https snafu-collection/`Censored` mp4](https://dn720001.ca.archive.org/0/items/private-snafu-collection/Censored%20%281944%29.ia.mp4)
+[]
+<img  alt="image" src="https://github.com/user-attachments/assets/e8e3690a-80d7-445b-bda1-1593235ab29e" />
+
+
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
 Dragon Ball Z - Westwood Ocean Dub Remastered (COMPLETE)
 @emit-sds 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02DwGtHxD9D1QSAAczzWwkDXQsAj3F83EimKzrVACtEvTmBTDGYk9CcpQyRBv2Y7WQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -105,26 +133,6 @@ Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/wat
 @cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
 
 
-# AnimalFarm 1954
-
-
-[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
-
-<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
-
-    
-  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
-  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
-
-  Download the
-
-  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
-  video.
-</video>
-
-
-Private Snafu
-<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ### NASA's [Deep Space Network](https://www.nasa.gov/communicating-with-missions/dsn/) Turns 60
 What's Next? (Live Public Talk)
