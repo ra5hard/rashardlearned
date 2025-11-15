@@ -11,8 +11,9 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 
 ## Dragon Ball Z Episode 75 - Bold and Fearless (Original Toonami Broadcast)
 <iframe src="https://archive.org/embed/dragon-ball-z-075-090-toonami-c-retro-ccn" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-Private Snafu [https snafu-collection/`Censored` mp4](https://dn720001.ca.archive.org/0/items/private-snafu-collection/Censored%20%281944%29.ia.mp4)
-[]
+
+## Private Snafu [https snafu-collection/`Censored` mp4](https://dn720001.ca.archive.org/0/items/private-snafu-collection/Censored%20%281944%29.ia.mp4)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e8e3690a-80d7-445b-bda1-1593235ab29e" />
 
 
