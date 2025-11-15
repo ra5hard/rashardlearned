@@ -9,6 +9,17 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+
+[NASA Sets Launch Coverage for International Ocean Tracking Mission](https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/)
+November 16, 2025 21:21 PT
+Sentinel-6B Mission [SPACEx](https://www.spacex.com/launches/sentinel-6b) / [ESA](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Watch_Sentinel-6B_launch_live_broadcast)
+[Sentinel-6B Satellite Moves into Payload Processing Phase](https://science.nasa.gov/blogs/sentinel-6/2025/09/30/sentinel-6b-satellite-moves-into-payload-processing-phase/) [New NASA-ESA Sea Level Satellite Arrives at California Launch Site](https://science.nasa.gov/blogs/sentinel-6/2025/08/20/new-nasa-esa-sea-level-satellite-arrives-at-california-launch-site/) 
+[New US-European Sea Level Satellite Will Help Safeguard Ships at Sea](https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/new-u-s-european-sea-level-satellite-will-help-safeguard-ships-at-sea/) 
+
 # Sentinel-6B Prelaunch Media Teleconference
 
 [@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
