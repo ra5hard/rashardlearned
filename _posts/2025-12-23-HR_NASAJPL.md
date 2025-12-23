@@ -1,5 +1,5 @@
 ---
-layout: earth
+layout: post
 title:  "Notes for @nasa-jpl HR"
 published: true
 permalink: /for_nasa_jpl_hr
@@ -7,6 +7,167 @@ tags: earth nsn "Near Space Network" gds
 image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
+
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+ # FaceBook Account
+ ` alt="image trying to make a new facebook account"` 
+ @nasa-jpl @blackgirlscode @nasa-pds @cityoflosangeles @stateofcalifornia
+<img   alt="image trying to make a new facebook account" src="https://github.com/user-attachments/assets/e431a6b7-be69-491f-b8c2-2338f875346c" />
+@meta pleas look for the sting `Re: LosAngeles:Karen Bass / Mark Zuckerberg / Menlo Park City Government [Link] My name is rashard kelly, im a victim of the federal doxxing playboy magazine has been maintaining via foot soldiers in southern california and atlanta. They Login illicitly and disable accounts. Mark can you fix my account ? ThakaSartu and reset the password for Rashard Iman Kelly Ahmed-Osman? I dont have a phone number and geting stopped at the checkpoint URL. -#Rashard NASAEARTHDATA ` in the following accounts 
+```
+"records@fb.com" <records@fb.com>,
+"appeals@fb.com" <appeals@fb.com>,
+"security@facebookmail.com" <security@facebookmail.com>,
+"phish@fb.com" <phish@fb.com>,
+"bnash@menlopark.gov" <bnash@menlopark.gov>,
+"jnwise@menlopark.gov" <jnwise@menlopark.gov>,
+"dcombs@menlopark.gov" <dcombs@menlopark.gov>,
+"jdschmidt@menlopark.gov" <jdschmidt@menlopark.gov>,
+"cttaylor@menlopark.gov" <cttaylor@menlopark.gov>,
+"FHWA.PressOffice@dot.gov" <FHWA.PressOffice@dot.gov>,
+"MediaRelations@fcc.gov" <MediaRelations@fcc.gov>,
+"susana.p.douglas@nasa.gov" <susana.p.douglas@nasa.gov>,
+"lyudmyla.p@nasa.gov" <lyudmyla.p@nasa.gov>,
+"shri.g.agarwal@jpl.nasa.gov" <shri.g.agarwal@jpl.nasa.gov>
+```
+<div class="tupperware">
+<img   alt="image" src="https://github.com/user-attachments/assets/0c6214e8-de9f-4004-a5a6-7ae99776778b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/38da1fc7-b5ec-448f-8b4b-c5767818a4ae" />
+
+</div>
+
+<img   alt="image trying to make a new facebook account" src="https://github.com/user-attachments/assets/e431a6b7-be69-491f-b8c2-2338f875346c" />
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+## International Space Station Change of Command Ceremony
+@blackgirlscode @stateofCalifornia @cityoflosangeles
+ISS Expedition 74 Change of Command Ceremony (Ryzhikov hands over ISS command to Fincke).
+
+DETAILS
+DATE	December 7, 2025
+TIME	7:25 AM
+TIMEZONE Los Angeles
+
+[Link](https://plus.nasa.gov/scheduled-video/international-space-station-change-of-command-ceremony-3/?fbclid=IwY2xjawOdZsdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedFWJ-nGwpmDT3vzWSguMrgqs-GWDFTAhq4ZNe-p4q5GWrinhS6COZmb2YcA_aem_xRPsSpo5aXQnv2DJbEPsuA)
+
+<img alt="image" src="https://github.com/user-attachments/assets/938eed13-45aa-40fb-89e0-f7329cfe3079" />
+
+#GoodAfterNoon_Ms_Mitchell! ITs Rashard, I need help. At the start of the year [Long Beach Public Library](https://www.longbeach.gov/library) is no longer issuing guest passes, it may have something to do with the #DEW_ATTACK i endured last night The Secretary of the Navy ... Congressmember Karen Bass alot of people in LongBeach are not aware we are a county and thus not fit to lead anyway Governor Gavin Newsom ... They said i need a library card. The issue is the id thing from Erika abandoning me for playboy and stealing my identity Howard University #latrice_monique_fitzpatrick you have a #saboteur in long beach Kimberly Bryant, Founder Black Girls CODE Black Girls Code If i can have a stable way to use the internet i can work i barely miss a day NASA Earthdata, SHARE Self-Help dont turn the computers on till 2pm Copernicus EU so its like my week is about to be chopped again! Supervisor Janice Hahn how can I clear things up since #Erika_Renee_Johnson Kash Doll and Normani have roots with playboy, i meet a girl and now the library is disabling me again! I dont wanna get political Jennifer Siebel Newsom but these are the issues Gavin Newsom has to handle if he think he can rock with Vice President JD Vance boss Donald J. Trump First Lady of Georgia Marty Kemp Georgia Division of Family & Children Services JAXA(宇宙航空研究開発機構) they cutting my online availibility again ! 🙁 Long Beach Fire Department Goldstone Deep Space Communications Complex International Space Station - #Rashard #DeepSpaceNetwork_Unix_Level5_MiSSiON_SUPPORT https://github.com/.../_posts/2025-12-03-iss_research.md ## International Space Station Change of Command Ceremony
+@blackgirlscode @stateofCalifornia @cityoflosangeles
+ISS Expedition 74 Change of Command Ceremony (Ryzhikov hands over ISS command to Fincke).
+DETAILS
+DATE December 7, 2025
+TIME 7:25 AM
+TIMEZONE Los Angeles
+[Link](https://plus.nasa.gov/.../international-space-station.../...)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a175331-e167-4850-ac89-3417553d99a1" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02cp618WdWuoyRtm84NZW8tJA2Q42qwcrJhpbc2HN9HEeAL5MdgHR3xAPFU8aetG1xl%26id%3D100084464911565&show_text=true&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<div class="tupperware"> 
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/86b7e979-d309-42f4-ba9a-9369f4acdbcf" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3c9660cf-a82c-4f4c-8fc2-929b3ef6d0a2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e1cfa1f9-267a-4646-bcb7-1c8be0a40f16" />
+
+</div> 
+
+[#MikeFinke](https://www.nasa.gov/people/edward-michael-mike-fincke/) NASA/Women.of.ISS International Space Station #Mike , to get to the meaty Keisha Lance Bottoms can tell you the situation and i can make a report at some point  NASA Earthdata / / / Normani Kash Doll #LAtrice_Monique_Fitzpatrick if you guys get this message can you #introduceYourselves & tell Mike about #Coral_Iris_KElly Essence I need you to report on Erikas status as well DeKalb County Sheriff's Office Decatur GA Atlanta Woman Who Went Missing On Superbowl Sunday Has Been Found Safe
+Nearly two months after her disappearance, Georgia's DeKalb County Police say that Erika Renee Johnson Kelly has been found safe. https://www.essence.com/.../erika-renee-johnson-kelly.../ Supervisor Holly J. Mitchell Supervisor Janice Hahn Congressmember Karen Bass https://www.essence.com/tags/erika-kelly/ Family Seeks Answers In Disappearance Of Atlanta Woman Last Seen On Superbowl Sunday
+Erika Kelly is approximately 5’5 in height, weighing 140 lbs. Anyone with information should contact the DeKalb County Police at 770-724-7710. https://www.essence.com/.../erika-kelly-missing-atlanta.../ FBI - Los Angeles Mori & Associates Kimberly Bryant, Founder Black Girls CODE Howard University Wayne A. I. Frederick https://www.facebook.com/essence/posts/the-search-for-erika-renee-johnson-kelly-ended-this-week/10158235880782855/ Georgia Division of Family & Children Services Planned Parenthood L.A. County Department of Public Social Services CAL FIRE Governor Gavin Newsom    EARTHDATA LOGIN @TheSpaceDevs @BlueOrigin @nasa-jpl @nasa-pds
+ Rashard Kelly
+Profile Home
+Edit Profile
+Change Password
+Applications 
+EULAs 
+My Groups
+Generate Token
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 12-02-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+V 4.231.2 Home NASA Accessibility
+NASA Official: Doug Newman
+Feedback Mayor Karen Bass Councilmember Marqueece Harris-Dawson U.S. Department of the Interior The T-Shirt Lady
+https://www.facebook.com/permalink.php?story_fbid=pfbid02HpvQK1dxAGTC8xidqNpKFMuTxaD7YixgHh3QRRY2k3UTNmwfnorC8JJuWxP5D3JKl&id=100084464911565
+ && 
+https://www.facebook.com/permalink.php?story_fbid=pfbid02uQED5FV5gxC3u44GBYyUVg9rhrQogtsSd4mkRSJuNPcHTcyi47UhY17AXGMDC2sdl&id=100084464911565 JAXA(宇宙航空研究開発機構) Goldstone Deep Space Communications Complex Canton Police Department, GA
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0UJtsrV9TptrddcqpYxXHyqPKbJDbTiCD4yGi53ESY5Ut9UJvNd4N72Lq3hJne9ECl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+# DEAR_LATRiCE
+@howard-university-web-services 
+@nasa-jpl she will clean me up or clean me out! ther is no inbetween! @StateOfCalifornia 
+I dont know how to figure out what to tell you, i dont want you throwing me in jail! 
+LATRiCE I am linking Facebook post here numbered [1](https://www.facebook.com/permalink.php?story_fbid=pfbid0sLeDCNkXMbWWXFm75D7MSYgk3NA3minH4euQLefDLEjJTzopz5BeP52ZEfxi29H8l&id=100084464911565) , [2 Naser Ahmed broke up our communication at one point](https://www.facebook.com/permalink.php?story_fbid=pfbid0uAFNNMab6EfPM2h16F35cE8krCNvxu7nHFnw1UzpU3BCy2W2Z6K6hHPScY5yCeZyl&id=100084464911565) [3 Erika in my care](https://www.facebook.com/permalink.php?story_fbid=pfbid0t8HuD6EKR6F1dF5MtQ64rKU5ZPCYhSQaPMq3ppCSGSbAcTwNr4GuVyEsGNMd42iZl&id=100084464911565) , [4 my mothers funeral](https://www.facebook.com/permalink.php?story_fbid=pfbid02Zi7AXaGXbvebAY8LL2xodfNjqFiqUHLH2t2J67arzeYdaTe2sJAAedCCJJCgAmLxl&id=100084464911565), [5 the ivf trip](https://www.facebook.com/permalink.php?story_fbid=pfbid0sZrd5fS9rHN1mbudEt9SCrg5WKNNetQPmQMBdiLUJuSsVYaJhgHShUvMXXwKRCXml&id=100084464911565), [My Muna Death Tribute](https://www.facebook.com/permalink.php?story_fbid=pfbid02CmgzJfyaHnqbsWtSAQZ3rR2B1bQqkaeq1mZ2iTCKSZqEqLhixzrAr6J3iCR8e5X1l&id=100084464911565) , [6 Howard LeaderShip Repost](https://www.facebook.com/permalink.php?story_fbid=pfbid02STNKreMm8NDWKZYj4X9NBb4NdTw1faXyaQYVzakS1MNQFFZqjvPZuqnvMYRsv1Vl&id=100084464911565) 
+
+<div class="tupperware">
+<img alt="image" src="https://github.com/user-attachments/assets/569a88b8-3c97-4485-9afa-122c7f05c7f8" />
+<img alt="image" src="https://github.com/user-attachments/assets/b3d13906-e4aa-4198-a720-a8982ea32a75" />
+
+</div>
+
+
+#LatriceMoniqueFitzpatrick ... hi... I can use some confirmation to be honest, so im posting ur tough guys on my feed with my complaints! You pulled #TheOkeyDoke when we were talking about moving in together 5 years ago, now im begging you to help me get organized... Its working, so idk im just uncomfortable, you can hurt me so bad! I dont know where Coral is and that darkskin girl showed me her boobs in Saudi Arabia and then via android browser surviellence so theres two intimate periods since i left 631 Moreland... I think thats it if you are Brandy / Normani and its a girl that play Kash Doll, and like erika i dont want to set up any agreements or arrangements where im forced to leave smoeone open to danger #RelationshipTalk Department of Homeland Security Essence -#Rashard NASA Jet Propulsion Laboratory / International Space Station
+
+Howard University Wayne A. I. Frederick Lydia Sermons hi my name is rashard.
+https://thakarashard.github.io/rashardmro/hr Howard University Wayne A. I. Frederick Lydia Sermons hi my name is rashard. I when on a few dates qwith a girl that identified herself as #Latrice_Monique_Fitzpatrick, she sorta do the breakups where she in my life again somehow and i think she may have gotten kidnapped at some point because.. Scratch that, there was a girl i went out with after i met her Normani / Erica Banks i really dont know if its #Latrice because i have been reciviing communications that Brandy (at least the role) is #Latrice and i feel that there may be more than one #BrandyNorwood because #LatriceMonique still fits the description... Im going to talk to my job on my blog and include some of her social channels . During #CovidLockdown my kid og tremoved and She was really into me keeping up with her... Kinda violent tbh! aNd whatever her relationsip status is i need her to know im not doing anything obscene with her memory or trust. #VirTiServ, i made a logo for her business and promised i would help. Im in a helpdesk/ datascience role NASA Jet Propulsion Laboratory / International Space Station / NASA/JPL Physical Oceanography Data Center and since its all public info and she is from a government household, i have been using the business hashtag to catergorize some things and I see results so I think she is working, not just the idea -#Rashard Rashard Iman Kelly-AhmedOsman Rashard Iman Kelly Lovebomrz Tuck Everlasting Canton Police Department, GA https://www.essence.com/tags/erika-kelly/ <~ Department of Homeland Security U.S. Immigration and Customs Enforcement Governor Gavin Newsom Brian Kemp
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid04cp2ELsbt6VxL5YDsBgs9yjYshRdq7ioVXP2L3LhdadhVM2UxXui2YBjz3GHMfHol%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+# Stranger Danger
+Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
+
+
+<div class="tupperware">
+<img  alt="image" src="https://github.com/user-attachments/assets/c267e7ae-56dd-49de-b982-4f3c69af0b4e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/be7bb17f-47c2-4ed6-ab6f-851de6939637" />
+<img  alt="image" src="https://github.com/user-attachments/assets/b7b50563-0f48-47ae-ab09-8f8b5b20cf71" />
+<img   alt="image" src="https://github.com/user-attachments/assets/a253c4cc-fcea-4766-919c-83e7fef57aa0" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e85ef252-c0d8-40ee-9288-56d60699e8a6" />
+</div>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fc81fe4e-7583-4df4-8959-09618697062e" />
+
+# Corals Art for me and either Normani or NickiMinaj
+<img  alt="image" src="https://github.com/user-attachments/assets/11448718-c2e5-4de8-bed6-cd4e3f083f80" />
+
+# Entomological warfare 
+
+<a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
+
+[@Wikipedia](https://en.wikipedia.org/wiki/Entomological_warfare)
+EW is a specific type of [biological warfare](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150198/) that uses insects in a direct attack or as vectors to deliver a biological agent, such as plague or cholera. Essentially, EW exists in three varieties.[2] One type of EW involves infecting insects with a pathogen and then dispersing the insects over target areas.[3] The insects then act as a vector, infecting any person or animal they might bite. Another type of EW is a direct insect attack against crops; the insect may not be infected with any pathogen but instead represents a threat to agriculture.[3] The final method of entomological warfare is to use uninfected insects, such as bees, to directly attack the enemy. Any organism that makes use of toxins—from bacteria to snakes—is engaging in a form of biological warfare. Humans who engage in biological warfare do so by taking advantage of these toxin-producing organisms. - [@NIH .gov Biological Warfare: Infectious Disease and Bioterrorism](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150198/) Man has used poisons for assassination purposes ever since the dawn of civilization, not only against individual enemies but also occasionally against armies (Table 1). However, the foundation of microbiology by Louis Pasteur and Robert Koch offered new prospects for those interested in biological weapons because it allowed agents to be chosen and designed on a rational basis. -[nih.gov PMID: 12789407: The history of biological warfare Friedrich Frischknecht ](https://pmc.ncbi.nlm.nih.gov/articles/PMC1326439/) [National Biodefense Analysis and Countermeasures Center Location: Fort Detrick, MD](https://www.dhs.gov/science-and-technology/national-biodefense-analysis-and-countermeasures-center) [Disinformation and Epidemics: Anticipating the Next Phase of Biowarfare Rose Bernard](https://pmc.ncbi.nlm.nih.gov/articles/PMC9195489/) [Biowarfare, bioterrorism and biocrime: A historical overview on microbial harmful applications](https://pmc.ncbi.nlm.nih.gov/articles/PMC7305902/) [Giving Full Measure to Countermeasures](https://www.ncbi.nlm.nih.gov/books/NBK215966/): Addressing Problems in the DoD Program to Develop Medical Countermeasures Against Biological Warfare Agents. [REad on nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK215957/#ddd00029) Biological weapons may be employed in various ways to gain a strategic or tactical advantage over the enemy, either by threats or by actual deployments. Like some chemical weapons, biological weapons may also be useful as area denial weapons. [Wiki @blackgirlscode](https://en.wikipedia.org/wiki/Biological_warfare)
+
+<a href="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk"><img   alt="image" src="https://www.dhs.gov/sites/default/files/styles/webp_original_size/public/images/st/Web/ST/20_0325_nbacc_logo_blue_revised.jpg.webp?itok=d0cYPGsk" style="width: 15%; height: auto;"/></a>
 
 <img  alt="image @nasa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/80edb710-cf75-4062-9fee-676efd44293d" />
 
