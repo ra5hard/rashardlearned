@@ -18,6 +18,9 @@ date:   2025-10-09 8:51:06
 
 Longbeach from [Aster](https://asterweb.jpl.nasa.gov/map/) <~ @Nasa-jpl [DataProduct](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/standard-data-products) ... `geophysical measurements from various types of instruments` && `Standard data products are those with an internally consistent, well-calibrated record of Earth’s geophysical properties to support science.` [ReadMore](https://www.earthdata.nasa.gov/data/catalog)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/de51bbfe-2c11-4bbe-90d0-dfe43a33dd0a" />
+
+
 [LA_HARBOR](https://asterweb.jpl.nasa.gov/gallery/images/LA-Harbor.jpg) img cred @nasa-jpl / @caltech maybe @UCLA 
 <img  alt="image" src="https://github.com/user-attachments/assets/c1779206-2e3c-436c-9047-57c61779b02a" />
 
@@ -633,6 +636,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
