@@ -17,6 +17,10 @@
 [RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
 
 
+This branch is 182 commits behind [ThakaRashard/rashardmro](https://github.com/ThakaRashard/rashardmro):master. 
+<img  alt="image" src="https://github.com/user-attachments/assets/efa186bc-52b1-4b4d-a24c-97085369b22f" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e11cc6d1-e634-4254-81a5-a06105800a4a" />
 
 
