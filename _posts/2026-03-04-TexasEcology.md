@@ -37,7 +37,7 @@ date:   2026-03-04 8:51:06
 Alabama Water
 @nasa-giss @nasa-jpl
 @eu-cdse @la-county-usd @LACountyDPH
-SuperVisorHolly? MayorKaren, SuperHilda? hi i wanted to say that identity fraud is a big thing but we need some balance because a lot of the unconstitutional terraformina has displaced people! I sent an email to Chief Monroe that had fire temp maps and i think we gotta get a little more hospitable with good citizens because the criminals are corrupting our habitat @cityoflosangeles 
+SuperVisorHolly? MayorKaren, SuperHilda? hi i wanted to say that identity fraud is a big thing but we need some balance because a lot of the unconstitutional terraformina has displaced people! I sent an email to Chief Monroe that had fire temp maps and i think we gotta get a little more hospitable with good citizens because the criminals are corrupting our habitat @cityoflosangeles [MAP - LiNK](https://browser.dataspace.copernicus.eu/?zoom=10&lat=34.16295&lng=-82.62543&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19PJl8XrmakjhB%2BUGxDpwaifu50y6wTiL7Y1vpjd8Th1cUEbMjxbkmOjcrm0H%2FofzNNQDva5JfKKkjIfSNPCtjbZ6P8tx%2B%2FWAPntzCI1Yz7XZrb%2B40eiPbj&datasetId=S2_L2A_CDAS&fromTime=2026-03-01T00%3A00%3A00.000Z&toTime=2026-03-01T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 <img  alt="image" src="https://github.com/user-attachments/assets/fa359232-71c3-42a2-b280-5922f2cb0f38" />
 <img alt="@blackgirlscode" src="https://github.com/user-attachments/assets/3742020e-15c6-45fe-91c8-621c8533b1f0" />
 
@@ -497,6 +497,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
