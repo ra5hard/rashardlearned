@@ -34,6 +34,9 @@ date:   2026-03-04 8:51:06
  MRO JUNO iSS [ALt - github.com/rashardiman/rashardiman.github.io](https://github.com/rashardiman/rashardiman.github.io/tree/master) + [homepage alt - rashardiman.github.io](https://rashardiman.github.io/)
 
 
+porting data @nasa-jpl
+<img alt="image" src="https://github.com/user-attachments/assets/282b2a58-35ea-4814-b7bb-664d544614d9" />
+
 Alabama Water
 @LongBeachInnovationTeam can you give this map link to the lady singing @la-county-isd [MAP-LiNK_FOR_CONSTANCiA_DORiS_TERESA_TO_SEE_I_REALLY_WOERK @nasa-jpl](https://worldview.earthdata.nasa.gov/?v=-101.674789706352,25.739178883903104,-77.66885121236807,42.099036537622425&as=2026-02-24-T00%3A00%3A00Z&ae=2026-03-06-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2026-03-06-T00%3A00%3A00Z) @emit-sds [ERiKA_JOHNSON](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/) i wanna see coral !
 CHiEFMONROE thers big fires in georgia is Kevin Johnson ok? https://www.star.nesdis.noaa.gov/goes/sector_band.php?sat=G19§or=smv&band=FireTemperature&length=150&dim=1 && https://www.star.nesdis.noaa.gov/goes/ &&& 
@@ -505,6 +508,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
