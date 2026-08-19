@@ -6,10 +6,12 @@
 @blackgirlscode i put it on [coral](https://ricothaka.github.io/coral) an [Normani](https://ricothaka.github.io/normanikordei) page, erika i owe u but im healing...
 
 <video controls preload="none"  poster="https://sothebys-md.brightspotcdn.com/dims4/default/cb0c9ad/2147483647/strip/true/crop/2000x1509+0+0/resize/1024x773!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6e%2Fcf%2F59f9f64b47638179e77c4901a27f%2Fl19985-b8x6v-01.jpg">
+	
 <source src="https://archive.org/download/batman-1966_202112/Trailer%20%231%20%5B1%2735%27%27%5D%20%5BSD%5D.mp4" type="video/mp4" />
   Download the
   <a href="https://archive.org/download/batman-1966_202112/Trailer%20%231%20%5B1%2735%27%27%5D%20%5BSD%5D.mp4">MP4</a>
   video.
+	
 </video>
 
 
@@ -24,6 +26,7 @@
   Sorry, your browser doesn't support embedded videos, but don't worry, you can
   <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013641/SDO_10_Year_Sun_1080_15mbps.mp4">download it</a>
   and watch it with your favorite video player!
+  
 </video>
 
 
@@ -234,6 +237,7 @@ The anime franchise consists of eight sequential series in Japan, each based on 
         or
 <a href="https://archive.org/download/pokemonsubbed/0001%20-%20IL001%20-%20Pokemon%21%20I%20Choose%20You.mp4">MP4</a>
         video.
+		
 </video> 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg"  alt="PokeMon" />](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg) 
